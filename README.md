@@ -100,7 +100,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 - Select the Agent tab > Add New Agents
 	- Name: Jane Doe
-	- Email : jane.doe@osticket.com
+	- Email : jane.doe(@)osticket.com
 	- Username: jane.doe
 	- Click Set Password and uncheck the box that says "Send the Agent a Password Reset Email"
 		- Set your password to anything you like
@@ -147,7 +147,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 <img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
 	
 - Select the Users tab to create a user
-	- Email Address: Karen@osticket.com
+	- Email Address: Karen(@)osticket.com
 	- Full Name: Karen Karen
 	- Select Add User
 	
@@ -155,7 +155,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 <img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>			
 	
  - Select the User tab again to create another user
-	- Email Address: Ken@osticket.com
+	- Email Address: Ken(@)osticket.com
 	- Full Name: Ken Ken
 	- Select Add User
 
