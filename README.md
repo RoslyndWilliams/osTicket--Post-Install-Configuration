@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket -  Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source helpdesk ticketing system osTicket.<br />
+Part 2 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial series. Part 2 outlines the post-install configuration of the open-source helpdesk ticketing system osTicket.<br />
 
 
 
@@ -210,5 +210,5 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 
 
-🎉Congratulations! You have configured osTicket successfully!🎉 You have now completed the second part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.
+🎉Congratulations! You have configured osTicket successfully!🎉 You have completed the second part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.
 - Click [here](https://github.com/RoslyndWilliams/osTicket--Ticket-Lifecycle) to move on to Part 3 of this three-part tutorial series! 
