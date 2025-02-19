@@ -210,4 +210,4 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 
 
-🎉Congratulations! You have configured osTicket successfully!🎉 Click [here](https://github.com/RoslyndWilliams/osTicket--Ticket-Lifecycle) to move on to Part 3 of this 3-part tutorial series! 
+🎉Congratulations! You have configured osTicket successfully!🎉 Click [here](https://github.com/RoslyndWilliams/osTicket--Ticket-Lifecycle) to move on to Part 3 of this three-part tutorial series! 
